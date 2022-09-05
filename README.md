@@ -20,8 +20,8 @@ Develop stack-based calculator that can evaluate expressions, find root(s) and c
 ## How to run
 
 ```shell
-git clone https://github.com/ZavaruKitsu/practice5
-cd practice5
+git clone https://github.com/ZavaruKitsu/stack_calculator
+cd stack_calculator
 
 # setup virtual environment
 python -m venv venv
@@ -63,3 +63,6 @@ Tests for evaluator.
 
 **TitleBarWidget** - as well as it sounds.
 
+## Credits
+
+- Icons8 for `close.svg, minimize.svg`
